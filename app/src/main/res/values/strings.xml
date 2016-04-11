@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalculatorMotion</string>
+    <string name="firstOp"></string>
+    <string name="secOp"></string>
+</resources>
